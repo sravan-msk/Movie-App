@@ -9,6 +9,7 @@ The application is designed to be fully **responsive across all devices** such a
 
 ## 🌐 API Used
 API Link: `"https://www.omdbapi.com/?apikey"`  
+Project Link : `"https://sravan-msk.github.io/Movie-App/"`
 
 ---
 
